@@ -7,9 +7,10 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vue": "next"
+    "vue": "2.6.12"
   },
   "devDependencies": {
+    "@vue/runtime-dom": "^3.0.11",
     "@vitejs/plugin-vue": "latest",
     "@vue/compiler-sfc": "latest",
     "vite": "latest",
